@@ -10,6 +10,8 @@
 // mod longest_common_prefix;
 // mod ransom_note_383;
 // mod valid_parentheses_20;
+// mod maximum_depth_of_binary_tree_104;
+// mod path_sum_112;
+// mod search_insert_position_35;
 
-fn main() {
-}
+fn main() {}
