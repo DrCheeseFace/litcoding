@@ -13,5 +13,11 @@
 // mod maximum_depth_of_binary_tree_104;
 // mod path_sum_112;
 // mod search_insert_position_35;
+// mod palindrome_number_9;
+// mod climbing_stairs_70;
+// mod add_binary_67;
+// mod add_binary_67;
+// mod happy_number_202;
+mod valid_anagram_242;
 
 fn main() {}
