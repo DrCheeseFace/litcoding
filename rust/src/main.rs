@@ -1,3 +1,5 @@
+use add_binary_67::add_binary;
+
 // mod add_to_numbers_2;
 // mod merge_sorted_array_88;
 // mod remove_element_27;
@@ -15,9 +17,15 @@
 // mod search_insert_position_35;
 // mod palindrome_number_9;
 // mod climbing_stairs_70;
-// mod add_binary_67;
-// mod add_binary_67;
+mod add_binary_67;
 // mod happy_number_202;
-mod valid_anagram_242;
+// mod valid_anagram_242;
 
-fn main() {}
+
+fn main() {
+
+let out = add_binary("10010101101010100100010111111010101010101".to_string(), "1110101001000100100111001010111010100010001011111111101001".to_string());
+
+    println!("{:?}", out)
+}
+
