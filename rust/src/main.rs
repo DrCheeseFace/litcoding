@@ -21,8 +21,9 @@
 // mod best_time_to_buy_and_sell_stock_121;
 // mod find_the_index_of_the_first_occurrencec_in_a_string_28;
 // mod is_subsequence_392;
+// mod isomorphic_string_205;
+// mod find_center_of_star_graph_1791;
+// mod word_pattern_290;
 
-
-mod isomorphic_string_205;
 
 fn main() {}
