@@ -25,5 +25,8 @@
 // mod find_center_of_star_graph_1791;
 // mod word_pattern_290;
 // mod contains_duplicate_ii_219;
+// mod summary_ranges_228;
+// mod merge_strings_alternately_1768;
+// mod greatest_common_divisor_of_strings_1071;
 
 fn main() {}
